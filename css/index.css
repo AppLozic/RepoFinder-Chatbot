@@ -1,0 +1,7 @@
+.col-centered{
+	float: none;
+    margin: 0 auto;
+}
+#mck-individual-tab-title{
+	text-align:center !important;
+}
