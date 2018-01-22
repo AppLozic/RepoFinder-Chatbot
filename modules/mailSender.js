@@ -37,7 +37,7 @@ if(err){
     var mailObject = {
 
     	tos:[email],
-    	subject:" tools and libraries",
+    	subject:" Tools and Libraries",
     	from: "support@applozic.com",
     	fromName: "RepoFinder",
     	body: message
