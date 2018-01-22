@@ -33,8 +33,9 @@ Open  ```conf/config.js``` and update the mongodb ```username``` and ```password
 ## Deployment
 
 Navigate to the RepoFinder, and run below commands.
-```npm install
-  node main.js
+```
+npm install
+node main.js
 ```
 
 RepoFinder is ready on port 4000.
